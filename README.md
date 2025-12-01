@@ -10,3 +10,6 @@ Este repositorio incluye:
 Integración continua: configurada con Travis CI para ejecutar mvn test.
 
 CI: Verified Travis integration with automatic Maven test execution.
+
+Triggering Travis CI build for testing.
+
